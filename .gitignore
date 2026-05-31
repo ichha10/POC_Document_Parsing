@@ -1,0 +1,24 @@
+# Environment variables — keep API keys private
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Chroma persistent DB (auto-regenerated on first run)
+chroma_db/
+
+# Generated output files (runtime artifacts)
+data/upgraded_document.md
+data/upgraded_document.pdf
+
+# OS files
+.DS_Store
+Thumbs.db

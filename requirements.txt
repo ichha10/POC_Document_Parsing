@@ -1,0 +1,6 @@
+pydantic>=2.0
+pypdf
+google-genai
+chromadb
+reportlab
+python-dotenv
