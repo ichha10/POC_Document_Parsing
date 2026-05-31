@@ -146,6 +146,6 @@ For the full system design, architecture decisions, scalability roadmap, and POC
 
 ## Notes
 
-- The `.env` file is excluded from version control via `.gitignore` — your API key is never committed.
+- The `.env` file is excluded from version control via `.gitignore` — the API key is never committed.
 - ChromaDB persists to `./chroma_db/` on first run — subsequent runs skip re-ingestion.
 - The system works fully offline if no API key is provided (mock mode).
