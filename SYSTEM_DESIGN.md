@@ -532,6 +532,8 @@ The architecture is deliberately modular so each component can be upgraded indep
 
 This means the POC is not a throwaway prototype — it is a **working foundation** that can grow into a production-grade document intelligence system.
 
+> **POC Disclaimer:** This system was built entirely with a **Proof of Concept mindset**. The scope was based solely on the high-level requirement provided — no detailed field mappings, target schemas, or integration specifications were defined at this stage. Design and implementation decisions were made to demonstrate the core concept end-to-end as quickly and clearly as possible. Further refinements, extended scenarios, and production-grade features would be scoped and built in subsequent phases based on detailed client requirements.
+
 ---
 
 *Generated for client presentation. System built using Google Gemini APIs, ChromaDB, and Python.*
